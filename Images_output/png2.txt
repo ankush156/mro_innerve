@@ -1,0 +1,38 @@
+ ```json
+{
+  "patient": {
+    "name": "Yash M. Patel",
+    "age": 21,
+    "sex": "Male",
+    "pid": "555"
+  },
+  "specimen": {
+    "type": "CSF",
+    "collected_at": "2022-12-02 03:11 PM",
+    "received_at": "2022-12-02 04:35 PM"
+  },
+  "results": {
+    "chemical_examination": {
+      "chloride": 101.40,
+      "potassium": 36.80,
+      "sugar": 54.10,
+      "protein": 40.80
+    },
+    "physical_examination": {
+      "color": "Colorless",
+      "appearance": "Clear",
+      "quantity": 3,
+      "coagulum": "Present",
+      "blood": "Absent"
+    },
+    "microscopic_examination": {
+      "total_w.b. count": 5500,
+      "lymphocytes": "Present",
+      "rbcs": "Absent",
+      "any_others": "Absent",
+      "z.n. stain": "AFB not detected.",
+      "cram's smear": "Organism not detected."
+    }
+  }
+}
+```

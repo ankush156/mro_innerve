@@ -1,0 +1,23 @@
+ ```json
+{
+  "patient": {
+    "name": "Armando Coquia",
+    "address": "West Kimbo, Makati City",
+    "age": 29,
+    "sex": "M",
+    "date": "12-03-90"
+  },
+  "prescription": {
+    "medication": "Amoxicillin",
+    "dosage": "500mg",
+    "quantity": 21,
+    "sig": "1 cap 3x a day for seven days"
+  },
+  "physician": {
+    "name": "Joela Cruz",
+    "license_number": "1234567",
+    "ptr_number": "1234567",
+    "s2_number": "1234567"
+  }
+}
+```
